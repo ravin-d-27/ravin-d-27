@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravin-d-27" alt="ravin-d-27" /></a> </p>
 
-- 🔭 I’m currently working on **AI Powered Attack System**
+- 🔭 I’m currently working on **Space based AI Applications**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Complicated DL Models**
+- 🌱 I’m currently learning **Generative AI, LLMs and Complicated DL Models**
 
 - 💬 Ask me about **Machine Learning, Deep Learning and AI**
 
-- 🔥 Fact about me **I'd love to create stuffs inspired from movies** 
+- 🔥 Fact about me **I'd love to create stuffs which solves real life problems** 
 
 - 📫 How to reach me **ravin.d3107@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ravin_D27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravind66244076" height="30" width="40" /></a>
+<a href="https://twitter.com/Ravin_D27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ravin_D27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravin-d-035922216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravin-d-035922216" height="30" width="40" /></a>
 <a href="https://kaggle.com/ravin2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravin2704" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ravin_3107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravin_3107" height="30" width="40" /></a>
