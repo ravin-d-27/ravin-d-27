@@ -31,6 +31,8 @@
 <h3>Badges</h3>
 
 <img src = "https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D" width = 200 height = 200>
+<img src = "aws-academy-graduate-aws-academy-cloud-foundations.png" width = 200 height = 200>
+
 
 <h3>Hackerrank Badges</h3>
 
