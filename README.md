@@ -28,11 +28,13 @@
 
 [![@ravind2704's Holopin board](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
 
-<h3>Badges</h3>
+<h3>Google Badges</h3>
 
 <img src = "https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D" width = 200 height = 200>
-<img src = "aws-academy-graduate-aws-academy-cloud-foundations.png" width = 200 height = 200>
 
+<h3>AWS Badges</h3>
+
+<img src = "aws-academy-graduate-aws-academy-cloud-foundations.png" width = 200 height = 200>
 
 <h3>Hackerrank Badges</h3>
 
