@@ -25,6 +25,7 @@
 </p>
 
 <h3>HacktoberFest Badges (Opensource Contributions)</h3>
+
 [![An image of @ravind2704's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
 
 <h3>Google Badges</h3>
