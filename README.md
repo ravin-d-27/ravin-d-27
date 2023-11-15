@@ -69,6 +69,13 @@
 
 </div>
 
+
+<div align="center">
+  <img align="center" src="https://api.githubtrends.io/user/svg/ravin-d-27/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+</div>
+
+<br>
+
 <div align='center'>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=highcontrast" alt=ravin-d-27 /><br>
   <br>
