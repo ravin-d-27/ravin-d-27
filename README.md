@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravin D</h1>
 <h3 align="center">CS undergrad student and a passionate ML Engineer</h3>
 
+<p align="center">
+  <img src="https://www.isical.ac.in/~debapriyo/iwpaa3/images/deepLearning.gif" alt="Coding Gif" width="700" height="350"/>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravin-d-27&label=Profile%20views&color=0e75b6&style=flat" alt="ravin-d-27" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravin-d-27&column=5&margin-w=15&margin-h=15&theme=darkhub" alt="ravin-d-27" /></a> </p>
@@ -69,10 +73,6 @@
 
 </div>
 
-
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/ravin-d-27/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
 
 <br>
 
