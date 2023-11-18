@@ -74,10 +74,6 @@
 </div>
 
 
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/ravin-d-27/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
-
 <br>
 
 <div align='center'>
