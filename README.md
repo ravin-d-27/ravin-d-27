@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravin D</h1>
-<h3 align="center">CS undergrad student and a passionate ML Engineer</h3>
+<h3 align="center">CS undergrad student and a passionate AI Engineer</h3>
 
 <p align="center">
   <img src="https://www.isical.ac.in/~debapriyo/iwpaa3/images/deepLearning.gif" />
@@ -16,7 +16,7 @@
 
 🔭 I’m currently working on **Deep Learning and Back-end Development projects**
 
-🌱 I’m currently exploring **Front End Technologies**
+🌱 I’m currently exploring **Front End Technologies and AI**
 
 💬 Ask me about **Machine Learning and Backend Technologies**
 
