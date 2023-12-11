@@ -44,8 +44,10 @@
 [![An image of @ravind2704's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
 
 <div align='center'>
-  
+  <br>
+<h3>Microsoft Learn Badges</h3>
 
+![Alt Text](train-custom-vision-ai.svg)
 
 <h3>Google Badges</h3>
 <img src = "https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D" width = 200 height = 200>
