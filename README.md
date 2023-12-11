@@ -46,6 +46,9 @@
 <div align='center'>
   
 
+<h3>Microsoft Learn Badges</h3>
+![Alt Text](train-custom-vision-ai.svg)
+
 
 <h3>Google Badges</h3>
 <img src = "https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D" width = 200 height = 200>
