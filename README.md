@@ -50,6 +50,9 @@
 <h3>Google Badges</h3>
 <img src = "https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D" width = 200 height = 200>
 
+<h3>Microsoft Learn Badges</h3>
+![Alt Text]()
+
 <h3>AWS Badges</h3>
 
 <img src = "aws-academy-graduate-aws-academy-cloud-foundations.png" width = 200 height = 200>
