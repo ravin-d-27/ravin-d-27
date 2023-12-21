@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravin D</h1>
-<h3 align="center">CS undergrad student and a passionate AI Engineer</h3>
+<h3 align="center">CS undergrad and a passionate AI + MLOps Engineer</h3>
 
 <p align="center">
   <img src="https://www.isical.ac.in/~debapriyo/iwpaa3/images/deepLearning.gif" />
