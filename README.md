@@ -14,7 +14,7 @@
 
 <div align='center'>
 
-🔭 I’m currently working on **Deep Learning and Back-end Development projects**
+🔭 I’m currently working on **Deep Learning and MLOPs Project along with Back-end Development**
 
 🌱 I’m currently exploring **Front End Technologies and AI**
 
