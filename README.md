@@ -14,7 +14,7 @@
 
 <div align='center'>
 
-🔭 I’m currently working on **Deep Learning and MLOPs Project along with Back-end Development**
+🔭 I’m currently working on **Space Science Projects with Reputed Space organizations along with Deep Learning and Backend Development**
 
 🌱 I’m currently exploring **Front End Technologies and AI**
 
