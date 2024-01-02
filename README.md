@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravin D</h1>
+<h1 align="center">Hi there! This is Ravin!</h1>
 <h3 align="center">CS undergrad and a passionate AI + MLOps Engineer</h3>
 
 <p align="center">
