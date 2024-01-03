@@ -69,7 +69,7 @@
 </div>
 
 <div align='center'>
-<h3>Languages and Tools</h3>
+<h3>Programming Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,docker,eclipse,figma,gcp,github,linux,matlab,maven,mongodb,mysql,postgres,powershell,pytorch,r,replit,sqlite,tensorflow,vim,vscode,vercel,visualstudio,wordpress&perline=16)](https://skillicons.dev)
 
