@@ -58,6 +58,8 @@
 <h3>AWS Badges</h3>
 
 <img src = "aws-academy-graduate-aws-academy-cloud-foundations.png" width = 200 height = 200>
+<img src = "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width = 200 height = 200>
+
 
 <h3>Hackerrank Badges</h3>
 
