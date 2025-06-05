@@ -14,9 +14,9 @@
 
 <div align='center'>
 
-🔭 I’m currently working on **Space Science Projects with Reputed Space organizations along with Deep Learning and Backend Development**
+🔭 I’m currently working on **ASP.NET Core**
 
-🌱 I’m currently exploring **Front End Technologies and AI**
+🌱 I’m currently exploring **.NET Technologies with C#**
 
 💬 Ask me about **Machine Learning and Backend Technologies**
 
