@@ -87,6 +87,8 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=highcontrast" alt=ravin-d-27 /><br>
   <br>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin-d-27&theme=dark" alt="ravin-d-27" /></p>
+
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ravin-d-27&show_icons=true&theme=transparent)
 </div>
 
 <div>
