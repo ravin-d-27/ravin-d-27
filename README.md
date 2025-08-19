@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! This is Ravin!</h1>
-<h3 align="center">CS undergrad and a passionate AI + MLOps Engineer</h3>
+<h1 align="center">I'm Ravin</h1>
+<h3 align="center">Full Stack Dev, Book Author, CS Graduate, Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://www.isical.ac.in/~debapriyo/iwpaa3/images/deepLearning.gif" />
@@ -13,16 +13,6 @@
 <br>
 
 <div align='center'>
-
-🔭 I’m currently working on **ASP.NET Core**
-
-🌱 I’m currently exploring **.NET Technologies with C#**
-
-💬 Ask me about **Machine Learning and Backend Technologies**
-
-🔥 Fact about me **I'd love to create stuffs which solves real life problems** 
-
-📫 How to reach me **ravin.d3107@outlook.com**
 
 
 <a href='https://www.buymeacoffee.com/ravind27'><img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black'></a>
