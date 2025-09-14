@@ -1,96 +1,208 @@
-<h1 align="center">I'm Ravin</h1>
-<h3 align="center">Full Stack Dev, Book Author, CS Graduate, Open Source Contributor</h3>
+# Ravin D - The Code Artist
 
-<p align="center">
-  <img src="https://www.isical.ac.in/~debapriyo/iwpaa3/images/deepLearning.gif" />
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravin-d-27&label=Profile%20views&color=0e75b6&style=flat" alt="ravin-d-27" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravin-d-27&column=5&margin-w=15&margin-h=15&theme=darkhub" alt="ravin-d-27" /></a> </p>
-
-<br>
-<br>
-
-<div align='center'>
-
-
-<a href='https://www.buymeacoffee.com/ravind27'><img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black'></a>
-
-<br>
-<br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/Ravin_D27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ravin_D27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravin-d-035922216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravin-d-035922216" height="30" width="40" /></a>
-<a href="https://kaggle.com/ravin2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravin2704" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravin_3107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravin_3107" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ravin_d3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravin_d3107" height="30" width="40" /></a>
-</p>
-</div>
-
-<br>
-<br>
-<h3>HacktoberFest Badges (Opensource Contributions)</h3>
-
-[![An image of @ravind2704's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
-
-<div align='center'>
-  <br>
-<h3>Microsoft Learn Badges</h3>
-
-![Alt Text](train-custom-vision-ai.svg)
-
-<h3>Google Badges</h3>
-<img src = "https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D" width = 200 height = 200>
-
-<h3>AWS Badges</h3>
-
-<img src = "aws-academy-graduate-aws-academy-cloud-foundations.png" width = 200 height = 200>
-<img src = "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width = 200 height = 200>
-
-
-<h3>Hackerrank Badges</h3>
-
-<img src = "Badges.png" >
-
-</div>
-
-<div align='center'>
-<h3 align="center">Packages and Libraries (For ML, DL and CV)</h3>
-<p align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
-</div>
-
-<div align='center'>
-<h3>Programming Languages and Tools</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,docker,eclipse,figma,gcp,github,linux,matlab,maven,mongodb,mysql,postgres,powershell,pytorch,r,replit,sqlite,tensorflow,vim,vscode,vercel,visualstudio,wordpress&perline=16)](https://skillicons.dev)
-
-</div>
-
-
-<br>
-
-<div align='center'>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=highcontrast" alt=ravin-d-27 /><br>
-  <br>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin-d-27&theme=dark" alt="ravin-d-27" /></p>
-
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ravin-d-27&show_icons=true&theme=transparent)
-</div>
-
-<div>
-<h3>Overall Statistics</h3>
 <div align="center">
 
-<a href="https://github.com/ravin-d27">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravin-d-27&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravin-d-27&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravin-d-27&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravin-d-27&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravin-d-27&theme=github_dark" height="180em" />
+### `Full Stack Dev` • `ML Engineer` • `System Designer` • `Open Source Enthusiast`
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Line+at+a+Time;From+Algorithms+to+Architecture;Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" />
 
+[![Profile Views](https://komarev.com/ghpvc/?username=ravin-d-27&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/ravin-d-27)
+[![GitHub followers](https://img.shields.io/github/followers/ravin-d-27?label=Followers&style=for-the-badge&color=00d9ff&logoColor=white)](https://github.com/ravin-d-27)
 
+</div>
+
+---
+
+## Quick Stats & Highlights
+
+<div align="center">
+
+| **Focus Areas** | **Current Vibe** | **Next Level** |
+|:------------------:|:--------------------:|:------------------:|
+| Full Stack Development | Building Agentic AI systems | AI/ML Integration |
+| LLM Fine Tuning | Deep Learning models | System Architecture |
+| Data Engineering | Cloud-native solutions | Open Source Impact |
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravin-d-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00d9ff&text_color=ffffff&title_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin-d-27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+</div>
+
+---
+
+## Tech Arsenal
+
+<details>
+<summary><strong>Core Languages</strong> (Click to expand)</summary>
+<br>
+
+```python
+languages = {
+    "expert": ["Python", "JavaScript", "Java", "C#"],
+    "proficient": ["SQL", "HTML/CSS", "TypeScript"],
+    "experience_years": "5+",
+    "lines_of_code": "100,000+"
+}
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,typescript,html,css" />
+</div>
+
+</details>
+
+<details>
+<summary><strong>Frameworks & Libraries</strong> (The Real MVPs)</summary>
+<br>
+
+### Backend Powerhouse
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet,nodejs" />
+</div>
+
+### Frontend Magic
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+</div>
+
+### AI/ML Toolkit
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</div>
+
+</details>
+
+<details>
+<summary><strong>Cloud & DevOps</strong> (Scaling to Infinity)</summary>
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,linux,vercel" />
+</div>
+
+**Deployment Philosophy:** `Code → Test → Deploy → Scale → Repeat`
+
+</details>
+
+<details>
+<summary><strong>Databases & Analytics</strong> (Data is the New Oil)</summary>
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
+</div>
+
+**Analytics Stack:** PowerBI • Tableau • Advanced SQL • ETL Pipelines
+
+</details>
+
+---
+
+## Specializations
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Ravin's Tech Universe] --> B[Full Stack Development]
+    A --> C[AI/ML Engineering]
+    A --> D[Data Engineering]
+    A --> E[🏗System Architecture]
+    
+    B --> B1[React/Next.js Frontend]
+    B --> B2[Django/FastAPI Backend]
+    B --> B3[RESTful API Design]
+    
+    C --> C1[LLM Fine Tuning]
+    C --> C2[Deep Learning Models]
+    C --> C3[Computer Vision]
+    
+    D --> D1[ETL Pipelines]
+    D --> D2[Data Mining]
+    D --> D3[Real-time Analytics]
+    
+    E --> E1[Microservices]
+    E --> E2[Cloud Architecture]
+    E --> E3[Performance Optimization]
+```
+
+</div>
+
+---
+
+## Achievement Gallery
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravin-d-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### Certifications & Badges
+
+<div align="center">
+
+**Microsoft Learn** • **Google Cloud** • **AWS Academy Graduate** • **HackerRank Problem Solver**
+
+[![Holopin Board](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravin-d-27&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravin-d-27&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravin-d-27&theme=github_dark" />
+</div>
+
+---
+
+## Let's Connect & Build Something Epic
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ravin_D27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravin-d-035922216)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/ravin2704)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ravin_3107)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ravin_d3107)
+
+### Fuel My Code Addiction
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ravind27)
+
+</div>
+
+---
+
+<div align="center">
+
+### Developer Philosophy
+
+> *"Code is poetry written in logic, debugged with patience, and deployed with hope."*
+
+**Currently:** Building the next generation of AI-powered applications  
+**Always:** Learning, coding, and pushing the boundaries of what's possible  
+**Goal:** Making technology more accessible and impactful for everyone  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20together&descAlignY=51&descAlign=50"/>
+
+</div>
