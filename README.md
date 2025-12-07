@@ -4,10 +4,10 @@
 
 ### `Full Stack Dev` • `ML Engineer` • `System Designer` • `Open Source Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Line+at+a+Time;From+Algorithms+to+Architecture;Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Line+at+a+Time;From+Algorithms+to+Architecture;Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ravin-d-27&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/ravin-d-27)
-[![GitHub followers](https://img.shields.io/github/followers/ravin-d-27?label=Followers&style=for-the-badge&color=00d9ff&logoColor=white)](https://github.com/ravin-d-27)
+[![Profile Views](https://komarev.com/ghpvc/?username=ravin-d-27&label=Profile%20views&color=6B7280&style=for-the-badge)](https://github.com/ravin-d-27)
+[![GitHub followers](https://img.shields.io/github/followers/ravin-d-27?label=Followers&style=for-the-badge&color=6B7280&logoColor=white)](https://github.com/ravin-d-27)
 
 </div>
 
@@ -26,8 +26,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravin-d-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00d9ff&text_color=ffffff&title_color=00d9ff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin-d-27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin-d-27&theme=dark&hide_border=true&background=000000&stroke=6B7280&ring=6B7280&fire=9CA3AF&currStreakLabel=D1D5DB"/>
 </div>
 
 ---
@@ -140,7 +140,7 @@ graph TD
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ravin-d-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravin-d-27&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -150,8 +150,7 @@ graph TD
 
 **Microsoft Learn** • **Google Cloud** • **AWS Academy Graduate** • **HackerRank Problem Solver**
 
-[![Holopin Board](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
-
+[![An image of @ravind2704's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
 </div>
 
 ---
@@ -159,7 +158,7 @@ graph TD
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=D1D5DB&text_color=9CA3AF"/>
 </div>
 
 <div align="center">
@@ -203,6 +202,6 @@ graph TD
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20together&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20together&descAlignY=51&descAlign=50&customColorList=0,0,0,0,0"/>
 
 </div>
