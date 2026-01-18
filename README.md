@@ -27,7 +27,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin-d-27&theme=dark&hide_border=true&background=000000&stroke=6B7280&ring=6B7280&fire=9CA3AF&currStreakLabel=D1D5DB"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ravin-d-27&theme=dark&hide_border=true&background=000000&stroke=6B7280&ring=6B7280&fire=9CA3AF&currStreakLabel=D1D5DB"/>
+
 </div>
 
 ---
@@ -136,38 +137,34 @@ graph TD
 
 ---
 
-## Achievement Gallery
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ravin-d-27&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ### Certifications & Badges
 
 <div align="center">
 
 **Microsoft Learn** • **Google Cloud** • **AWS Academy Graduate** • **HackerRank Problem Solver**
 
-[![An image of @ravind2704's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravind2704)](https://holopin.io/@ravind2704)
-</div>
+<img width="2092" height="680" alt="image" src="https://github.com/user-attachments/assets/0439500a-e72c-46ee-b550-eca3a797b1c5" />
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-d-27&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=D1D5DB&text_color=9CA3AF"/>
-</div>
+<!-- Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravin-d-27&theme=github_dark" />
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravin-d-27&theme=github_dark" />
-</div>
+<!-- Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravin-d-27&theme=github_dark&utcOffset=5.5" />
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravin-d-27&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravin-d-27&theme=github_dark" />
+<!-- Top Languages by Repo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravin-d-27&theme=github_dark" />
+
+<!-- Top Languages by Commit -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravin-d-27&theme=github_dark" />
+
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravin-d-27&theme=github_dark" />
+
 </div>
 
 ---
